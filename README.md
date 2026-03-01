@@ -1,3 +1,4 @@
+This project was created as part of a technical assessment for an interview.
 # OTTPlus Website Testing
 
 This project includes manual testing of OTTPlus streaming website.
